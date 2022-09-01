@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Familys",
+      "image": "https://google.com/photos"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://google.com/photos"
+    },
+    {
+      "name": "Colors",
+      "image": "https://google.com/photos",
+      "id": 3
+    }
+  ]
+}
