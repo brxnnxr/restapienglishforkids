@@ -1,19 +1,27 @@
-{
-  "categories": [
-    {
-      "id": 1,
-      "name": "Familys",
-      "image": "https://google.com/photos"
-    },
-    {
-      "id": 2,
-      "name": "Numbers",
-      "image": "https://google.com/photos"
-    },
-    {
-      "name": "Colors",
-      "image": "https://google.com/photos",
-      "id": 3
-    }
-  ]
-}
+{"users" : [
+  {
+    "id": 1,
+    "name": "Brenner Campos",
+    "email": "brennercampos96@hotmail.com",
+    "xp": 0,
+    "highscore": 0
+  }
+],
+
+"categories": [
+  {
+    "id": 1,
+    "name": "Familys",
+    "image": "https://google.com/photos"
+  },
+  {
+    "id": 2,
+    "name": "Numbers",
+    "image": "https://google.com/photos"
+  },
+  {
+    "name": "Colors",
+    "image": "https://google.com/photos",
+    "id": 3
+  }
+]}
